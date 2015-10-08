@@ -22,7 +22,7 @@ Describe the verb applied to the resource. @TODO
 | {param_c}     | date          | {sample_value}|
 
 
-## Deploy this api proxy
+## Deploy this api proxy 
 You can deploy weatherapi by calling this command.
 ```bash
 grunt --env={env} --upload-modules --username={username} --password={password}
