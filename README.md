@@ -13,7 +13,7 @@ Describe your API Resource. @TODO
 ##### GET /{resource}
 Describe the verb applied to the resource. @TODO
 
-###### Parameters
+###### Parameters 
 
 | Parameter     | type          | sample values |
 | ------------- |:-------------:| -------------:|
