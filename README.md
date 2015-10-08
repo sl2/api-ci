@@ -8,7 +8,7 @@ Add overview here. @TODO
 ### API Resource /{resource}
 Describe your API Resource. @TODO
 
-#### Verbs
+#### Verbs     
 
 ##### GET /{resource}
 Describe the verb applied to the resource. @TODO
